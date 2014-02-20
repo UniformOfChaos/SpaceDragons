@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainCameraMouseControl.cs">
     <Files>
-      <File FileName="Assets\Scripts\MainCameraMouseControl.cs" Line="46" Column="75" />
+      <File FileName="Assets\Scripts\MainCameraMouseControl.cs" Line="23" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

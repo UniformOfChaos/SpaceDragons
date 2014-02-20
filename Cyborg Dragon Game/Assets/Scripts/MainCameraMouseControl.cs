@@ -20,7 +20,7 @@ public class MainCameraMouseControl: MonoBehaviour
 	public float rotationSpeedModifier;
 	static private float cameraHeight;
 	private float mainCameraXRotation = 30;
-	private float mainCameraYRotation = 0;
+	private float mainCameraYRotation = 45;
 	private Vector3 moveCoords;
 	private string mouseControlMode = "";
 	
